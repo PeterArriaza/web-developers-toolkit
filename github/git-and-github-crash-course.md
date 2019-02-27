@@ -103,7 +103,7 @@ Usefull for the interview questions like "What is difference beetween clone and 
 1. Master (in production environment this is the live website)
 2. facebook-login (some branch to test facebook login functionality)
 
-
+To create this branch and check it out in a single step run git checkout -b feature/signup-form
 
 
 
